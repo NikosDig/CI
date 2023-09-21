@@ -1,5 +1,5 @@
 # CI
-hitHub actions testing ground
+GhitHub actions testing ground
 <br><br>
 Introduction
 Actions are reusable blocks of code that run in the cloud instead of on your local machine or web server. There are many uses for actions, including:
